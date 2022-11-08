@@ -38,7 +38,7 @@ W polu linki pomocnicze znajduje się link do panelu dodawania gracza, ale na ty
 - jest możliwość pobrania listy graczy do pliku CSV, jednak pobierane jest tylko 10 rekordów (chociaż baza zawiera ich zdecydowanie więcej). Tylko kilka kolumn wyświetla dane poprawnie (imię, nazwisko, klub, recenzja). W kolumnie wiek zamiast liczby podana jest data urodzenia - należy rozważyć zmianę formatowania lub zmianę nazwy kolumny. Kolumna mecze oraz kolumna raporty wyświetlają dane jako [object Object].
 
 
-#TASK 2
+# TASK 2
 ## Subtask 1 i 2
 https://drive.google.com/drive/folders/1j8Wfk8uaA3xm0arqU-0d7dMT6mdQvuiY?usp=sharing
 
