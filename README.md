@@ -39,9 +39,51 @@ W polu linki pomocnicze znajduje się link do panelu dodawania gracza, ale na ty
 
 
 # TASK 2
+
 ## Subtask 1 i 2
 https://drive.google.com/drive/folders/1j8Wfk8uaA3xm0arqU-0d7dMT6mdQvuiY?usp=sharing
 
 ## Subtask 3
 
 Dlaczego piszemy przypadki testowe? Przede wszystkim po to, aby zyskać pewność, że przetestowaliśmy wszystkie funkcjonalności aplikacji. To również ważne, aby zapewnić porządek w dokumentacji - dzięki temu inni współpracownicy będą mieli jasny i klarowny komunikat o tym, któte funkcje zostały przetestowane, w jakim zakresie i z jakim skutkiem.
+
+# TASK 3
+
+
+
+# TASK 4
+
+## Subtask 1 i 2
+https://docs.google.com/spreadsheets/d/1eTtsT2IT_e-fJ3Ru2bSVD5c__e5AF6Puqe0QcjdXRjA/edit?usp=sharing
+
+## Subtask 3
+
+1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+
+Aplikacja gromadzi w jednym miejscu materiały, nagrania, muzykę i informacje, które pomagają w wykształceniu nawyku medytacji i pomagają użytkownikowi dbać o swój well-being w wybranych obszarach zdrowia psychicznego (redukcja stresu, łatwiejsze zasypianie, rozwój itd).
+
+2. Kto ma być użytkownikiem końcowym aplikacji?
+
+Użytkownikiem końcowym powinna być osoba, która chce się nauczyć medytacji i rozwijać się w tym zakresie (poznawać najlepsze techniki).
+
+3. Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)
+
+Według mnie aplikacja jest user friendly z małymi wyjątkami. Nawigacja nie jest bardzo skomplikowana, ale materiały w kategoriach wyświetlają się w losowej kolejności i to jest trochę mylące (użytkownik może się zgubić). Problematyczne było dla mnie zrozumienie pierwszej sekcji (funkcja dzień/noc - screen w załączniku) na głównym ekranie (pierwszy widok). Próbowałam przesunąć w lewo, żeby odkryć opcję noc, a okazało się, że trzeba tapnąć (po przesunięciu przeniosłam się do kolejnego widoku). Zdziwiła mnie też tak duża różnica między polską i angielską wersją językową aplikacji.
+
+[IMG_6061](https://user-images.githubusercontent.com/116759119/203377590-33518331-c743-41c4-87e3-b45cd23dfd9c.jpg)
+
+4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )
+
+Ujednoliciłabym wersje językowe. Poprawiłabym kategorie, żeby wyświetlany content był bardziej relevant. Aplikacja wymaga bardzo szybkiego łącza z Internetem - może dałoby się jakoś to poprawić, żeby nie wykluczać osób z obszarów, na których szybkie łącze jest problemem? Dobrze byłoby, żeby zmiana wersji językowej nie powodowała usunięcie danych użytkownika (postępów itd).
+
+5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+
+Aplikacja natywna jest pisana pod urządzenie mobilne, więc na pewno będzie zawierała mniej błędów UX niż aplikacja internetowa, która nie jest dedykowana urządzeniom mobilnym i może się na nich źle wyświetlać (np. zmienia się kolejność elementów na stronie, teksty są ucięte, scrollowanie może być uciążliwe). Aplikację internetową można przetestować w przeglądarce, aplikację natywną na wirtualnym urządzeniu mobilnym lub na rzeczywistym urządzeniu mobilnym.
+
+(Przy tym pytaniu nie jestem pewna, bo aplikację internetową rozumiem jako aplikację webową, a aplikacja natywna to aplikacja mobilna? Jeśli tak to unikałabym tego wyrażenia, bo natywność to chyba cecha aplikacji mobilnej (np. natywna na iOS pisana w Swifcie lub na Androida pisana w Kotlinie/Javie, a inne aplikacje np. w Xamarinie to aplkacje cross-platformowe).
+
+## Subtask 4
+
+https://qa768.atlassian.net/jira/software/projects/QAC/boards/1
+
+
