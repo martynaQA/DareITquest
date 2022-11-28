@@ -86,4 +86,36 @@ Aplikacja natywna jest pisana pod urządzenie mobilne, więc na pewno będzie za
 
 https://qa768.atlassian.net/jira/software/projects/QAC/boards/1
 
+# TASK 5
 
+## Subtask 1
+
+SELECT * FROM
+
+SELECT certainitem FROM nazwabazy WHERE exampleitemid = certainvalue
+SELECT certainitem, anotheritem, anothervalue FROM nazwabazy WHERE exampleitemid > certainvalue
+SELECT certainitem, anotheritem, anothervalue FROM nazwabazy WHERE exampleitemid BETWEEN certainvalue AND anothervalue
+SELECT certainitem FROM nazwabazy WHERE exampleitemparameter = 'tujakaswartoscnieliczbowa'
+
+SELECT certainitem FROM nazwabazy WHERE examplename = 'E%'
+SELECT certainitem FROM nazwabazy WHERE examplename = '%Example%'
+SELECT certainitem FROM nazwabazy WHERE examplename = 'Example1, _'
+
+ORDER BY Parametr DESC
+ORDER BY Parameter ASC
+
+AND
+OR
+IS NOT NULL
+IS NULL
+IN
+
+SELECT DATEDIFF
+GETDATE()
+AS
+SELECT COUNT(*)
+SELECT MIN(nazwabazy)
+SELECT SUM(nazwabazy)
+
+JOIN
+ON
