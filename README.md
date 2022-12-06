@@ -171,4 +171,49 @@ SELECT * FROM 'actors'
 
 <img width="779" alt="subtask3pointTEN" src="https://user-images.githubusercontent.com/116759119/204396938-a811405f-83fc-4265-ad6c-4ba8e5fb80b2.png">
 
+# TASK 6
+
+## Subtask 1
+
+11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
+
+<img width="744" alt="sql11" src="https://user-images.githubusercontent.com/116759119/205977805-b236fb7d-85a3-47d0-905f-4d9a9c913c4e.png">
+
+12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
+
+13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: [pati@mail.com](mailto:pati@mail.com)
+
+<img width="658" alt="sql13" src="https://user-images.githubusercontent.com/116759119/205977846-e8b6ef15-f6f7-49dc-91ab-1d019261621d.png">
+
+14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
+
+15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
+
+16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
+
+<img width="443" alt="SQL16" src="https://user-images.githubusercontent.com/116759119/205977888-09871fa6-705e-4d24-85cc-91cf98224b86.png">
+
+17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
+
+18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
+
+19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
+
+<img width="658" alt="sql19" src="https://user-images.githubusercontent.com/116759119/205977948-a5a288e7-cd15-45e1-99f8-bd8a45827c08.png">
+
+20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = [honia@mail.com](mailto:honia@mail.com) oraz pseudonym = Hoa
+
+<img width="764" alt="sql20" src="https://user-images.githubusercontent.com/116759119/205977991-019c75f2-5c14-4fc2-b35d-7ec08d23ee72.png">
+
+## Subtask 2
+
+<img width="906" alt="quiz-wyniki" src="https://user-images.githubusercontent.com/116759119/205976821-fc7e6f28-f642-40c1-8dfe-c511b3232d2f.png">
+
+## Subtask 3
+
+
+
+
+
+
 
