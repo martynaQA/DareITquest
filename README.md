@@ -84,12 +84,3 @@ SELECT * FROM 'actors'
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = [honia@mail.com](mailto:honia@mail.com) oraz pseudonym = Hoa
 
 <img width="764" alt="sql20" src="https://user-images.githubusercontent.com/116759119/205977991-019c75f2-5c14-4fc2-b35d-7ec08d23ee72.png">
-
-## Subtask 4
-
-<img width="906" alt="quiz-wyniki" src="https://user-images.githubusercontent.com/116759119/205976821-fc7e6f28-f642-40c1-8dfe-c511b3232d2f.png">
-
-
-
-
-
